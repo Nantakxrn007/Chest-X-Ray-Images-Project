@@ -1,0 +1,11 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Personal folders
+*.pdf
+*.bat
+*.zip
+*.7z
+.env
