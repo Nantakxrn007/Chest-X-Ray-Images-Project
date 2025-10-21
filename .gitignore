@@ -1,5 +1,6 @@
 # Ignore all data files
 data/
+kaggle.json
 *.zip
 *.csv
 *.parquet
